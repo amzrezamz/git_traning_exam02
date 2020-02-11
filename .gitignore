@@ -7,3 +7,8 @@ img/**/thumb.db
 img/**/Thumb.db
 css/
 *.psd
+
+package-lock.json
+
+*.DS_Store
+**/*.DS_Store
